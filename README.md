@@ -1,2 +1,1 @@
-ALx course
-
+ALx course is great
